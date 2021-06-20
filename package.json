@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Kariakito/vacanpm/issues"
   },
-  "homepage": "https://github.com/Kariakito/vacanpm#readme"
+  "homepage": "https://github.com/Kariakito/vacanpm#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
